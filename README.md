@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there 👋
+# Hi there 👋
 
 </div>
 
@@ -8,11 +8,7 @@
 
 📊 Graduated in Mathematics from the University of Aveiro
 
-<div align="center">
-
 # 🚀 What I’m working on
-
-</div>
 
 - Building projects in Data Science, Data Engineering, and Machine Learning
 - Expanding both technical and soft skills
