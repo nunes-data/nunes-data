@@ -1,5 +1,7 @@
 <div align="center">
+  
 ## Hi there 👋
+
 </div>
 
 🎓 Currently pursuing a Master’s in Big Data Analysis and Engineering at NOVA University of Lisbon
@@ -19,4 +21,5 @@ Supporting social projects, applying my knowledge to make a real-world impact
 # Let’s connect
 
 You can find more about my journey and connect with me here:
+
 [![LinkedIn](https://www.linkedin.com/in/databynunes)]
