@@ -8,12 +8,15 @@
 
 📊 Graduated in Mathematics from the University of Aveiro
 
+<div align="center">
+
 # 🚀 What I’m working on
 
+</div>
+
 - Building projects in Data Science, Data Engineering, and Machine Learning
-- Growing my GitHub portfolio (started in August 2025)
 - Expanding both technical and soft skills
-- Publishing papers and doing research
+- Doing research and beginning publishing papers
 
 # Let’s connect
 
