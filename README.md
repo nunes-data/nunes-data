@@ -22,4 +22,4 @@ Supporting social projects, applying my knowledge to make a real-world impact
 
 You can find more about my journey and connect with me here:
 
-[![LinkedIn](https://www.linkedin.com/in/databynunes)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/databynunes)]
