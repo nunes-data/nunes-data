@@ -4,7 +4,7 @@
 
 </div>
 
-🎓 Currently pursuing a Master’s in Big Data Analysis and Engineering at NOVA University of Lisbon
+🎓 Currently pursuing a Master’s in Data Analysis and Engineering at NOVA University of Lisbon
 
 📊 Graduated in Mathematics (minor in Informatics and Computation) from the University of Aveiro
 
