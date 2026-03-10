@@ -12,7 +12,7 @@
 
 - Building projects in Data Science, Data Engineering, and Machine Learning
 - Expanding both technical and soft skills
-- Doing research and beginning publishing papers
+- Doing research and building applications
 
 # Let’s connect
 
