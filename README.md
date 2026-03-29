@@ -56,16 +56,12 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tableau" width="48" height="48" alt="Tableau" />
-      <br>Tableau
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
@@ -75,15 +71,15 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
@@ -92,6 +88,8 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
   </tr>
 </table>
 
+---
+
 ### Core Competencies
 
 **Machine Learning:** Deep Learning, Time Series Analysis, and Exploratory Data Analysis (EDA).
@@ -99,6 +97,16 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 **Mathematics:** Algebra, Non-Linear Optimization & Computational Logic.
 
 **Management & Design:** Jira (Agile/Scrum) & UML (Unified Modeling Language).
+
+---
+
+### 📚 Currently Learning
+
+**Data Visualization:** Tableau & Power BI.
+
+**Specialized AI:** Natural Language Processing (NLP).
+
+**Cloud Native:** Kubernetes orchestration and scaling.
 
 ---
 
