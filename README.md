@@ -76,6 +76,28 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <br>SQL
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Anaconda" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Git" />
+      <br>Notion
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="GitHub" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="Figma" />
+      <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="VS Code" />
+      <br>Html
+    </td>
+  </tr>
 </table>
 
 ---
