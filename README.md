@@ -67,8 +67,6 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
