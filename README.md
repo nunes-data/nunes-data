@@ -96,7 +96,7 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 
 **Specialized AI:** Natural Language Processing (NLP).
 
-**Cloud Native:** Kubernetes orchestration and scaling.
+**Deployment** Kubernetes & Docker
 
 ---
 
