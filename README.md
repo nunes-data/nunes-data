@@ -56,14 +56,6 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br>Anaconda
     </td>
