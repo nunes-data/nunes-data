@@ -116,9 +116,9 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 
 **Data Visualization:** Tableau & Power BI.
 
-**Specialized AI:** Natural Language Processing (NLP).
+**Specialization:** Natural Language Processing (NLP).
 
-**Deployment** Kubernetes & Docker
+**Deployment:** Kubernetes & Docker
 
 ---
 
