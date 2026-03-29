@@ -81,7 +81,9 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 ### Core Competencies
 
 **Machine Learning:** Deep Learning, Time Series Analysis, and Exploratory Data Analysis (EDA).
+
 **Mathematics:** Algebra, Non-Linear Optimization & Computational Logic.
+
 **Management & Design:** Jira (Agile/Scrum) & UML (Unified Modeling Language).
 
 ---
@@ -89,8 +91,10 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 ### 🎓 Academic Background
 
 **MSc in Data Analysis and Engineering** | NOVA University of Lisbon (Current)
+
 **BSc in Mathematics** | University of Aveiro 
-    *Minor in Informatics and Computation*
+
+*Minor in Informatics and Computation*
 
 ---
 
