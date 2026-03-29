@@ -72,8 +72,8 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
+      <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="VS Code" />
+      <br>SQL
     </td>
   </tr>
 </table>
