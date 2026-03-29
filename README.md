@@ -1,6 +1,6 @@
 <div align="center">
   
-# [José Nunes]
+# José Nunes
 ### MSc Data Analysis and Engineering Student @ NOVA University of Lisbon
 
 I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Minor in Informatics and Computation**. Currently pursuing my Master's at **NOVA University of Lisbon** in **Data Analysis and Engineering**, focusing in **Machine Learning, Deep Learning, Time Series and Optimization**.
@@ -28,15 +28,11 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <br>Matlab
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
       <br>Sklearn
@@ -53,6 +49,10 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
       <br>Matplotlib
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -64,16 +64,16 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
       <br>Anaconda
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
-      <br>Jira
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 
 * **Machine Learning:** Deep Learning, Time Series Analysis, and Exploratory Data Analysis (EDA).
 * **Mathematics:** Algebra, Non-Linear Optimization & Computational Logic.
-* **Systems Design:** UML (Unified Modeling Language)
+* **Management & Design:** Jira (Agile/Scrum) & UML (Unified Modeling Language).
 
 ---
 
