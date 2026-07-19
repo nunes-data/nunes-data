@@ -112,16 +112,6 @@ I am a **Mathematics Graduate (University of Aveiro)** with a specialized **Mino
 
 ---
 
-### 📚 Currently Learning
-
-**Data Visualization:** Tableau & Power BI.
-
-**Specialization:** Natural Language Processing (NLP).
-
-**Deployment:** Kubernetes & Docker
-
----
-
 ### 🎓 Academic Background
 
 **MSc in Data Analysis and Engineering** | NOVA University of Lisbon (Current)
